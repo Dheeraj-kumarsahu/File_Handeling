@@ -24,3 +24,15 @@ Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 - All file operations are sandboxed to a local `crud_files/` folder so the demo
   is safe to run anywhere.
 - Default delete password: `!@#$%` (change `DELETE_PASSWORD` in `app.py`). 
+
+***
+### 👥 Author & Contact
+
+*   **Author:**  Dheerajkumarsahu
+*   **Email:**   dheerajkumarsahu827@gmail.com
+*   **Github:**  https://github.com/Dheeraj-kumarsahu/
+*   **Linkdin:** www.linkedin.com/in/dheeraj-kumar-sahu-0a6184418
+
+***
+
+*Feel free to star ⭐ this repository if you find it helpful!*
